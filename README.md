@@ -17,7 +17,7 @@
 
 **To Run the script**
 
-**1. You need to allow the access of IMAC in your gmail**
+**1. You need to allow the access of IMAP in your gmail**
 
 **2. Allow the use of less secure app access in your google account**
 
